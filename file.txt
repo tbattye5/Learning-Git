@@ -1,1 +1,2 @@
 One line of text in the body of the file.
+Here is a second line of text in the body of this file
